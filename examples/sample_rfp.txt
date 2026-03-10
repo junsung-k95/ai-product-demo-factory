@@ -1,0 +1,16 @@
+Build a real-time logistics dashboard for a courier company.
+
+Requirements:
+- Live delivery tracking map (mock GPS data updating every 2 seconds)
+- KPI cards: total deliveries, on-time rate, avg delivery time, active drivers
+- Interactive chart showing deliveries by hour (bar chart)
+- Driver status table: name, current location, status (delivering/idle/break)
+- AI route optimizer: user inputs pickup + dropoff, Claude suggests optimal route with estimated time
+- Dark theme, modern UI with gradient accents
+- Responsive layout (works on desktop and tablet)
+
+Tech preferences:
+- Single HTML file if possible
+- Use Leaflet.js for the map
+- Chart.js for graphs
+- Tailwind CSS for styling
